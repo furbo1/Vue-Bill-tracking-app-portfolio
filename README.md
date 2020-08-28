@@ -1,4 +1,4 @@
-# receiptstrackingapp
+# Receipts tracking app
 
 ## Project setup
 ```
