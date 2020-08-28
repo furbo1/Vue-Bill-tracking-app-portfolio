@@ -1,4 +1,5 @@
 # Receipts tracking app
+![Alt Text](https://github.com/furbo1/Vue-Bill-tracking-app-portfolio/blob/master/Snip20200828_21.png)
 
 ## Project setup
 ```
